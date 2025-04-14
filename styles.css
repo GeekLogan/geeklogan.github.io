@@ -207,7 +207,7 @@ nav {
 }
 
 .company {
-    color: #3498db;
+    color: #e0e0e0;
     font-weight: 500;
     margin-bottom: 0.25rem;
 }
@@ -362,4 +362,12 @@ footer p {
     .section {
         padding: 1.5rem 1rem;
     }
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: #3498db;
 }
