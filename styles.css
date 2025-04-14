@@ -12,6 +12,11 @@ body {
     background-color: #121212;
 }
 
+/* Spacer */
+.spacer {
+    height: 38.39px; /* Adjust this value based on your navbar height */
+}
+
 /* Navigation */
 nav {
     background-color: #1e1e1e;
